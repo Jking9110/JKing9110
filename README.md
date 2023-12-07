@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Filter content in Linux](https://github.com/Jking9110/Linux-Practice)
+  - [Use Linux commands to manage file permissions](https://github.com/Jking9110/Linux-Practice)
   -   [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📄 Certifications</h2>
